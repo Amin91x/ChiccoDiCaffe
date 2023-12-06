@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("../Image/back.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  header {
+    text-align: center;
+  }
+  header img {
+    width: 200px;
+    
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+
+  }
+  nav a {
+    margin: 0 10px;
+    padding: 10px;
+    background-color: #eee;
+    text-decoration: none;
+    border: 2px solid #010203;
+    color: black;
+  }
+
+  a {
+    text-align: center;
+    display: block; /* Ensure the anchor is a block-level element */
+}
+
+a img {
+    display: inline-block; /* Make the image inline-block to center it horizontally */
+    margin: 0 auto; /* Center the image horizontally */
+}
