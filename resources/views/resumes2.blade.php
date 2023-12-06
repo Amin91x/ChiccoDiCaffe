@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-@include('includes.header')
+
+<div>
+    @include('includes.header')
+
+</div>
 
 <head>
     <title> Chicco Di Caffe</title>
@@ -9,7 +13,7 @@
 
 
 
-<body class = "cv-body">
+<body class="cv-body">
 
 
     <div class="grid place-items-center">
@@ -21,6 +25,9 @@
     </div>
 
 </body>
-@include('includes.footer')
+<div>
+    @include('includes.footer')
+</div>
+
 
 </html>
