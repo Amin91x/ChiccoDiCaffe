@@ -21,7 +21,9 @@ Ahmad Radwan - 2045887
         <div class="gallery-item">
             <img src="{{ asset('Image/roasted turkey.jpg') }}" alt="Image 2">
         </div>
-
+        <div class="gallery-item">
+            <img src="{{ asset('Image/salmon.jpg') }}" alt="Image 3">
+        </div>
 
         <!-- Second Row -->
         <div class="gallery-item">
