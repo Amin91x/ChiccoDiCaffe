@@ -1,6 +1,6 @@
-<link rel="stylesheet" type="text/css" href="{{ asset('css/footer.css') }}">
-<link rel="stylesheet" type="text/css" href="{{ asset('css/print.css') }}">
-<footer class = "noPrint">
+<link rel="stylesheet" type="text/css" href="{{ asset('CSS/footer.css') }}">
+<link rel="stylesheet" type="text/css" href="{{ asset('CSS/print.css') }}">
+<footer class="noPrint">
     <div class="footer-container">
 
         <a href="https://validator.w3.org/check?uri=referer" target="_blank">
